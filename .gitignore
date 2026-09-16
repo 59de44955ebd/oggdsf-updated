@@ -1,0 +1,16 @@
+# VS stuff
+*.vs
+*.obj
+*.pdb
+*.log
+*.tlog
+*.res
+*.exp
+*.lastbuildstate
+*.user
+*.aps
+sln/tmp
+sln/Win32
+sln/x64
+/releases
+/stuff
