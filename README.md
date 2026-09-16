@@ -2,7 +2,7 @@
 
 An updated version of the Xiph.org [oggdsf](https://github.com/xiph/oggdsf) DirectShow filters - [opencodecs_0.85.17777_src.7z](https://www.xiph.org/dshow/downloads/) from 2011 - that can be compiled with recent versions of Visual Studio. 
 
-Example graph for rendering a MIDI file to Ogg Vorbis using `dsfVorbisEncoder.dll` and `dsfOggMux.dll`  
+*Example graph for rendering a MIDI file to Ogg Vorbis using `dsfVorbisEncoder.dll` and `dsfOggMux.dll`*  
 ![](screenshots/mid-to-ogg.png)
 
 ## Included Filters
